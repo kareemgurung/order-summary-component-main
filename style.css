@@ -159,7 +159,6 @@ body {
   gap: 0.188rem;
 
   margin-right: 3.125rem;
-
 }
 
 .plan {
@@ -188,7 +187,6 @@ body {
   line-height: 1.063rem;
   text-decoration-line: underline;
   color: var(--clr-brightblue);
-
 }
 
 .change-plan:hover {
@@ -260,5 +258,15 @@ body {
 
   .price-plan {
     margin-right: 5.625rem;
+  }
+
+  .plan {
+    font-size: 1rem;
+    line-height: 1.313rem;
+  }
+
+  .price {
+    font-size: 1rem;
+    line-height: 1.313rem;
   }
 }
